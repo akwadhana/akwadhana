@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a passionate software developer with a keen interest in web development, open-source projects, and continuous learning. Welcome to my GitHub profile!
 <!--
 **akwadhana/akwadhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
